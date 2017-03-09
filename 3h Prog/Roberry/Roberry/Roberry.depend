@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452850174 source:c:\users\konstantinos\desktop\7o examhno\algorithmoi\3h prog\roberry\roberry\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

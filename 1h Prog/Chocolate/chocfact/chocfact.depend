@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1447102945 source:c:\users\konstantinos\desktop\7o examhno\algorithmoi\1h prog\chocolate\chocfact\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
